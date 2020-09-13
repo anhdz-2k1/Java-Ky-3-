@@ -1,0 +1,37 @@
+﻿<Page
+    x:Class="U40.Ex1"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:U40"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    xmlns:data="using:U40.data"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+   
+    <Page.Resources>
+        <DataTemplate x:Key="FriendListDataTemplate" x:DataType="data:Friend">
+            <StackPanel HorizontalAlignment="Center">
+                <Image Width="150" Height="100" Stretch="Uniform"  Source="{x:Bind ImageFriend}"/>
+                <TextBlock FontSize="16" Text="{x:Bind Name}" HorizontalAlignment="Center"/>
+                <TextBlock FontSize="10" Text="{x:Bind Address}" HorizontalAlignment="Center"/>
+            </StackPanel>
+        </DataTemplate>
+    </Page.Resources>
+
+    <Grid>
+        <GridView ItemsSource="{x:Bind Friends}" 
+                  IsItemClickEnabled="True" 
+                  ItemClick="GridView_ItemClick"
+                  ItemTemplate="{StaticResource FriendListDataTemplate }">
+        </GridView>
+
+        <TextBlock
+                   Name="ResultTextBlock"
+                   FontSize="24"
+                   Foreground="Red"
+                   FontWeight="Bold"
+                   Margin="0,20,0,0"/>
+    </Grid>
+</Page>
