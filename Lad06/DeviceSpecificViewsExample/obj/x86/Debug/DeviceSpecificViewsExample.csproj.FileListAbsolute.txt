@@ -1,0 +1,17 @@
+C:\Users\Anh\source\repos\Lad06\DeviceSpecificViewsExample\obj\x86\Debug\DeviceSpecificViewsExample.csprojAssemblyReference.cache
+C:\Users\Anh\source\repos\Lad06\DeviceSpecificViewsExample\obj\x86\Debug\App.g.i.cs
+C:\Users\Anh\source\repos\Lad06\DeviceSpecificViewsExample\obj\x86\Debug\App.g.cs
+C:\Users\Anh\source\repos\Lad06\DeviceSpecificViewsExample\obj\x86\Debug\DeviceFamily Destop\MainPage.g.i.cs
+C:\Users\Anh\source\repos\Lad06\DeviceSpecificViewsExample\obj\x86\Debug\DeviceFamily Destop\MainPage.g.cs
+C:\Users\Anh\source\repos\Lad06\DeviceSpecificViewsExample\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\Anh\source\repos\Lad06\DeviceSpecificViewsExample\obj\x86\Debug\MainPage.g.cs
+C:\Users\Anh\source\repos\Lad06\DeviceSpecificViewsExample\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\Anh\source\repos\Lad06\DeviceSpecificViewsExample\obj\x86\Debug\App.xaml
+C:\Users\Anh\source\repos\Lad06\DeviceSpecificViewsExample\obj\x86\Debug\DeviceFamily Destop\MainPage.xaml
+C:\Users\Anh\source\repos\Lad06\DeviceSpecificViewsExample\obj\x86\Debug\DeviceFamily Mobile\MainPage.xaml
+C:\Users\Anh\source\repos\Lad06\DeviceSpecificViewsExample\obj\x86\Debug\MainPage.xaml
+C:\Users\Anh\source\repos\Lad06\DeviceSpecificViewsExample\obj\x86\Debug\App.xbf
+C:\Users\Anh\source\repos\Lad06\DeviceSpecificViewsExample\obj\x86\Debug\DeviceFamily Destop\MainPage.xbf
+C:\Users\Anh\source\repos\Lad06\DeviceSpecificViewsExample\obj\x86\Debug\DeviceFamily Mobile\MainPage.xbf
+C:\Users\Anh\source\repos\Lad06\DeviceSpecificViewsExample\obj\x86\Debug\MainPage.xbf
+C:\Users\Anh\source\repos\Lad06\DeviceSpecificViewsExample\obj\x86\Debug\XamlSaveStateFile.xml
